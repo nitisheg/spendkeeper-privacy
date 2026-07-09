@@ -45,7 +45,7 @@
 
 <body>
 
-<h1>SpendKeeper Privacy Policy</h1>
+<h3>SpendKeeper Privacy Policy</h3>
 
 <p><strong>Effective Date:</strong> 08 July 2026</p>
 
@@ -55,7 +55,7 @@ This Privacy Policy explains how we collect, use, disclose, and protect your inf
 By using SpendKeeper, you agree to the practices described in this Privacy Policy.
 </p>
 
-<h2>Information We Collect</h2>
+<h4>Information We Collect</h4>
 
 <p>Depending on how you use the application, we may collect the following information:</p>
 
@@ -71,7 +71,7 @@ By using SpendKeeper, you agree to the practices described in this Privacy Polic
 <li>Biometric authentication preference (stored only on your device)</li>
 </ul>
 
-<h2>How We Use Your Information</h2>
+<h4>How We Use Your Information</h4>
 
 <p>Your information is used to:</p>
 
@@ -85,7 +85,7 @@ By using SpendKeeper, you agree to the practices described in this Privacy Polic
 <li>Maintain application security.</li>
 </ul>
 
-<h2>Firebase Services</h2>
+<h4>Firebase Services</h4>
 
 <p>
 SpendKeeper uses Google Firebase services, including:
@@ -105,7 +105,7 @@ For more information, please visit:
 https://firebase.google.com/support/privacy
 </p>
 
-<h2>Google Sign-In</h2>
+<h4>Google Sign-In</h4>
 
 <p>
 If you choose to sign in using your Google account, we may receive:
@@ -121,7 +121,7 @@ If you choose to sign in using your Google account, we may receive:
 This information is used solely for authentication and identification within SpendKeeper.
 </p>
 
-<h2>Biometric Authentication</h2>
+<h4>Biometric Authentication</h4>
 
 <p>
 SpendKeeper optionally supports biometric authentication (Face ID, Touch ID, or Fingerprint) to securely unlock the application.
@@ -129,14 +129,14 @@ Your biometric information never leaves your device and is never stored on our s
 Authentication is handled entirely by your device's operating system.
 </p>
 
-<h2>Data Storage</h2>
+<h4>Data Storage</h4>
 
 <p>
 Your financial data is securely stored using Google Firebase Cloud Firestore.
 We retain your information only while your account remains active or as required to provide our services.
 </p>
 
-<h2>Permissions Used</h2>
+<h4>Permissions Used</h4>
 
 <ul>
 <li><strong>Internet</strong> – Required for authentication and cloud synchronization.</li>
@@ -144,14 +144,14 @@ We retain your information only while your account remains active or as required
 <li><strong>Biometric Authentication</strong> – Used to securely unlock the application (if enabled).</li>
 </ul>
 
-<h2>How We Protect Your Information</h2>
+<h4>How We Protect Your Information</h4>
 
 <p>
 We use industry-standard security measures to protect your information against unauthorized access, disclosure, alteration, or destruction.
 Only authenticated users can access their own stored information.
 </p>
 
-<h2>Third-Party Services</h2>
+<h4>Third-Party Services</h4>
 
 <p>
 SpendKeeper uses trusted third-party services, including:
@@ -166,7 +166,7 @@ SpendKeeper uses trusted third-party services, including:
 These providers maintain their own privacy policies governing how they process your information.
 </p>
 
-<h2>Your Rights</h2>
+<h4>Your Rights</h4>
 
 <p>
 Depending on your location and applicable laws, you may have the right to:
@@ -179,7 +179,7 @@ Depending on your location and applicable laws, you may have the right to:
 <li>Request deletion of your stored personal information.</li>
 </ul>
 
-<h2>Delete Your Account</h2>
+<h4>Delete Your Account</h4>
 
 <p>
 You may request deletion of your SpendKeeper account and associated data by contacting us at:
@@ -193,7 +193,7 @@ You may request deletion of your SpendKeeper account and associated data by cont
 After verifying your request, we will permanently delete your account and associated data within a reasonable timeframe, unless we are required by law to retain certain information.
 </p>
 
-<h2>Children's Privacy</h2>
+<h4>Children's Privacy</h4>
 
 <p>
 SpendKeeper is not intended for children under the age of 13.
@@ -201,7 +201,7 @@ We do not knowingly collect personal information from children.
 If we become aware that such information has been collected, we will delete it promptly.
 </p>
 
-<h2>Changes to This Privacy Policy</h2>
+<h4>Changes to This Privacy Policy</h4>
 
 <p>
 We may update this Privacy Policy from time to time.
@@ -209,7 +209,7 @@ Any changes will be posted on this page with an updated Effective Date.
 We encourage users to review this Privacy Policy periodically.
 </p>
 
-<h2>Contact Us</h2>
+<h4>Contact Us</h4>
 
 <p>
 If you have any questions regarding this Privacy Policy or our data practices, please contact us:
