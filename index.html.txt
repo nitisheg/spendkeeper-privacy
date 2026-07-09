@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpendKeeper - Privacy Policy</title>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 40px;
+        line-height: 1.8;
+        color: #374151;
+        background: #f8fafc;
+    }
+
+    h3 {
+        color: #1d4ed8;
+        border-bottom: 3px solid #2563eb;
+        padding-bottom: 12px;
+        margin-bottom: 25px;
+    }
+
+    h4 {
+        color: #1e40af;
+        margin-top: 35px;
+        margin-bottom: 12px;
+        padding-left: 10px;
+        border-left: 4px solid #3b82f6;
+    }
+
+    p {
+        margin: 15px 0;
+        color: #4b5563;
+    }
+
+    ul {
+        margin: 15px 0;
+        padding-left: 28px;
+    }
+
+    li {
+        margin-bottom: 8px;
+        color: #4b5563;
+    }
+
+    strong {
+        color: #111827;
+    }
+
+    a {
+        color: #2563eb;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    footer {
+        margin-top: 50px;
+        border-top: 1px solid #d1d5db;
+        padding-top: 20px;
+        text-align: center;
+        color: #6b7280;
+        font-size: 14px;
+    }
+
+    body::before {
+        content: "";
+        display: block;
+        height: 8px;
+        width: 100%;
+        background: linear-gradient(90deg, #2563eb, #60a5fa);
+        border-radius: 6px;
+        margin-bottom: 30px;
+    }
+
+    @media (max-width: 768px) {
+        body {
+            padding: 25px;
+            margin: 20px auto;
+        }
+    }
+</style>
+
+</head>
+
+<body>
+
+<h3>SpendKeeper Privacy Policy</h3>
+
+<p><strong>Effective Date:</strong> 08 July 2026</p>
+
+<p>
+SpendKeeper ("we", "our", or "us") values your privacy.
+This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the SpendKeeper mobile application.
+By using SpendKeeper, you agree to the practices described in this Privacy Policy.
+</p>
+
+<h4>Information We Collect</h4>
+
+<p>Depending on how you use the application, we may collect the following information:</p>
+
+<ul>
+<li>Name</li>
+<li>Email Address</li>
+<li>Google Account information (when using Google Sign-In)</li>
+<li>Expense records entered by you</li>
+<li>Income records entered by you</li>
+<li>Budget information</li>
+<li>Categories created by you</li>
+<li>User preferences and settings</li>
+<li>Biometric authentication preference (stored only on your device)</li>
+</ul>
+
+<h4>How We Use Your Information</h4>
+
+<p>Your information is used to:</p>
+
+<ul>
+<li>Create and manage your account.</li>
+<li>Authenticate your identity securely.</li>
+<li>Store and synchronize your financial records.</li>
+<li>Generate expense summaries and reports.</li>
+<li>Improve application performance and user experience.</li>
+<li>Respond to customer support requests.</li>
+<li>Maintain application security.</li>
+</ul>
+
+<h4>Firebase Services</h4>
+
+<p>
+SpendKeeper uses Google Firebase services, including:
+</p>
+
+<ul>
+<li>Firebase Authentication</li>
+<li>Cloud Firestore</li>
+</ul>
+
+<p>
+Firebase securely stores your account information and application data.
+For more information, please visit:
+</p>
+
+<p>
+https://firebase.google.com/support/privacy
+</p>
+
+<h4>Google Sign-In</h4>
+
+<p>
+If you choose to sign in using your Google account, we may receive:
+</p>
+
+<ul>
+<li>Your Name</li>
+<li>Email Address</li>
+<li>Profile Picture (if available)</li>
+</ul>
+
+<p>
+This information is used solely for authentication and identification within SpendKeeper.
+</p>
+
+<h4>Biometric Authentication</h4>
+
+<p>
+SpendKeeper optionally supports biometric authentication (Face ID, Touch ID, or Fingerprint) to securely unlock the application.
+Your biometric information never leaves your device and is never stored on our servers.
+Authentication is handled entirely by your device's operating system.
+</p>
+
+<h4>Data Storage</h4>
+
+<p>
+Your financial data is securely stored using Google Firebase Cloud Firestore.
+We retain your information only while your account remains active or as required to provide our services.
+</p>
+
+<h4>Permissions Used</h4>
+
+<ul>
+<li><strong>Internet</strong> – Required for authentication and cloud synchronization.</li>
+<li><strong>Notifications</strong> – Used for reminders and important notifications (if enabled).</li>
+<li><strong>Biometric Authentication</strong> – Used to securely unlock the application (if enabled).</li>
+</ul>
+
+<h4>How We Protect Your Information</h4>
+
+<p>
+We use industry-standard security measures to protect your information against unauthorized access, disclosure, alteration, or destruction.
+Only authenticated users can access their own stored information.
+</p>
+
+<h4>Third-Party Services</h4>
+
+<p>
+SpendKeeper uses trusted third-party services, including:
+</p>
+
+<ul>
+<li>Google Firebase</li>
+<li>Google Sign-In</li>
+</ul>
+
+<p>
+These providers maintain their own privacy policies governing how they process your information.
+</p>
+
+<h4>Your Rights</h4>
+
+<p>
+Depending on your location and applicable laws, you may have the right to:
+</p>
+
+<ul>
+<li>Access your personal information.</li>
+<li>Correct inaccurate information.</li>
+<li>Request deletion of your account.</li>
+<li>Request deletion of your stored personal information.</li>
+</ul>
+
+<h4>Delete Your Account</h4>
+
+<p>
+You may request deletion of your SpendKeeper account and associated data by contacting us at:
+</p>
+
+<p>
+<strong>apps@eglogics.com</strong>
+</p>
+
+<p>
+After verifying your request, we will permanently delete your account and associated data within a reasonable timeframe, unless we are required by law to retain certain information.
+</p>
+
+<h4>Children's Privacy</h4>
+
+<p>
+SpendKeeper is not intended for children under the age of 13.
+We do not knowingly collect personal information from children.
+If we become aware that such information has been collected, we will delete it promptly.
+</p>
+
+<h4>Changes to This Privacy Policy</h4>
+
+<p>
+We may update this Privacy Policy from time to time.
+Any changes will be posted on this page with an updated Effective Date.
+We encourage users to review this Privacy Policy periodically.
+</p>
+
+<h4>Contact Us</h4>
+
+<p>
+If you have any questions regarding this Privacy Policy or our data practices, please contact us:
+</p>
+
+<p>
+<strong>SpendKeeper Support</strong><br>
+Email: apps@eglogics.com
+</p>
+
+<footer>
+© 2026 SpendKeeper. All Rights Reserved.
+</footer>
+
+</body>
+
+</html>
